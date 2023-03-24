@@ -1,0 +1,19 @@
+# config/_default/languagues.zh.toml
+
+languageCode = "zh"
+languageName = "Chinese-Simplified"
+displayName = "ZH"
+htmlCode = "zh"
+weight = 1
+rtl = false
+
+# Language-specific parameters go here
+[author]
+  name = "happyhah"
+  image = "/img/author.jpg"
+  headline = ""
+  bio = "记录与分享"
+  links = [
+    { linkedin = "https://linkedin.com/in/wizardbyron" },
+    { github = "https://github.com/wizardbyron" }
+  ]

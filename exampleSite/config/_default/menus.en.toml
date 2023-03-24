@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
-  pageRef = "docs"
+  name = "Posts"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
@@ -21,8 +21,8 @@
   weight = 20
 
 [[main]]
-  name = "Users"
-  pageRef = "users"
+  name = ""About
+  pageRef = "about"
   weight = 30
 
 [[main]]
@@ -44,7 +44,7 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
